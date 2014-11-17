@@ -1,0 +1,9 @@
+#!/bin/sh
+
+#
+# ~/.xinitrc
+#
+# Executed by startx (запустите ваш оконный менеджер отсюда)
+#
+
+exec awesome 
